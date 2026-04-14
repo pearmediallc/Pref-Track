@@ -1,0 +1,26 @@
+[
+  {
+    "Date": "2026-04-14",
+    "Time Slot": "2nd Hr",
+    "timestamp": "2026-04-14T22:33:49",
+    "added_by": "rahul",
+    "team_lead": "chetan",
+    "PML Code": "33",
+    "Vertical": "auto",
+    "Traffic Source": "facebook",
+    "Platform": "meta",
+    "Brands": "abc",
+    "Spend": 1000.0,
+    "Revenue": 233.0,
+    "Impressions": 456,
+    "Clicks": 1000,
+    "Offer Clicks": 876,
+    "Conversions": 13,
+    "Profit": -767.0,
+    "ROI": -76.7,
+    "CPC": 1.0,
+    "EPC": 0.233,
+    "Offer CTR": 87.6,
+    "Cost per Conv": 76.92
+  }
+]
